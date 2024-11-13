@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Auto Command
+Implementation-Version: 1.0
+Specification-Vendor: riluoye
+Specification-Title: autocommand
+Implementation-Timestamp: 2024-11-14T00:17:52+0800
+Specification-Version: 1
+Implementation-Vendor: riluoye
+
